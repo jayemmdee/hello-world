@@ -1,3 +1,3 @@
 # hello-world
-the ubiquitous and requisite first time
-with more changes!
+the ubiquitous and requisite first-timer
+with more and more changes!
